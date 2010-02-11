@@ -1,0 +1,7 @@
+This file is the result of the following tool chain:
+-Proguard
+-Kzip
+-Pack200
+
+Source:
+http://www.indiespot.net/app/java-four-kay
